@@ -50,7 +50,7 @@ Fetch complete stored details for any address.
 
 ## 🔗 **Deployed Smart Contract Link**
 
-`[XXX](https://coston2-explorer.flare.network/address/0x13ABDC639Ea9c61aa80E25657d1dE64D14468571)`
+`(https://coston2-explorer.flare.network/address/0x13ABDC639Ea9c61aa80E25657d1dE64D14468571)`
 
 
 ---
