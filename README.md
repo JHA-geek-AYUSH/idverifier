@@ -54,8 +54,3 @@ Fetch complete stored details for any address.
 
 
 ---
-
-## 📦 **Smart Contract Code**
-
-```solidity
-//paste your code
